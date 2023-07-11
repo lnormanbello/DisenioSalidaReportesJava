@@ -1,0 +1,8 @@
+databaseclass =servicios.MS_SQLServer
+jdbc=jdbc:sqlserver://
+driver=com.microsoft.sqlserver.jdbc.SQLServerDriver
+databasehost=localhost
+port = 1433
+database=control_inscripciones
+username=sqlUser
+password = SqlUser2023
